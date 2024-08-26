@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to switching to a new career path  
 - 📫 How to reach me: skola.bo88@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ 
+- ⚡ Currently living in Helsinki, Finland
 
 <!---
 thaiha-hub/thaiha-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
