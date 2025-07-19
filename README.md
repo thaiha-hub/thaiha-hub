@@ -29,7 +29,9 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech â
 
 ## ðŸ“ˆ GitHub Stats
 
-![Thaiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiha-hub&show_icons=true&theme=default&hide_rank=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thaiha-hub&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
+
+![Thaiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaiha-hub&show_icons=true&theme=midnight-purple&hide_rank=true&hide_border=true&title_color=9fafff&icon_color=00ffe4&text_color=8df6d5)
 
 ---
 
