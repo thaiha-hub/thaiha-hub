@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech â
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thaiha-hub&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
-![Thaiha's GitHub stats](https://stats.hyo.dev/api/github-stats-advanced?login=thaiha-hub)
+
 
 ---
 
