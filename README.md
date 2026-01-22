@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 
 ### 🏗️ Infrastructure as Code:
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)  
-![OpenTofu]  
-![CloudFormation]  
+![OpenTofu](https://img.shields.io/badge/-OpenTofu-FFDA18?style=flat&logo=opentofu&logoColor=white)    
+![CloudFormation](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws)    
   
 **Certifications**: AZ-900 (Microsoft Certified)  
 
