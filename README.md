@@ -22,13 +22,13 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![OpenShift](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 
 ### 🏗️ Infrastructure as Code:
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
-![OpenTofu]
-![CloudFormation]
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)  
+![OpenTofu]  
+![CloudFormation]  
   
 **Certifications**: AZ-900 (Microsoft Certified)  
 
@@ -51,12 +51,6 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 
 ### 🎯 Agile Tools
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thaiha-hub&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
