@@ -23,6 +23,12 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-Red Hat Open Shift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+
+### 🏗️ Infrastructure as Code:
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![OpenTofu]
+![CloudFormation]
   
 **Certifications**: AZ-900 (Microsoft Certified)  
 
@@ -30,7 +36,8 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)  
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
 **Training**: Red Hat (Official Attendance)  
 
 ### 🗃️ Databases
@@ -42,22 +49,14 @@ Welcome to my GitHub! I'm a lifelong learner currently transitioning into tech �
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 🎯 Agile Tools
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thaiha-hub&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
-
-
-
----
-
-## ☁️ Goals
-
-- ✅ Complete **AZ-900 certification**
-- ✅ Learn to build **CI/CD pipelines in Azure**
-- 🚧 Create personal DevOps projects and share them here
-- 🤝 Collaborate on open source or study projects
 
 ---
 
